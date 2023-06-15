@@ -1,5 +1,5 @@
 cmake
-dlib
+http://pypi.fcio.net/packages/0e/ce/f8a3cff33ac03a8219768f0694c5d703c8e037e6aba2e865f9bae22ed63c/dlib-19.8.1-cp36-cp36m-win_amd64.whl#md5=9a704406fbb4036f70b5f174fec9db1f
 face_recognition==1.3.0
 numpy==1.19.2
 pandas==1.1.5
